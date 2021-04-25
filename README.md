@@ -4,9 +4,10 @@ Enter your name and the name of your partner/lover/crush to find Love compatibil
 
 To do so you will need to get your API key from the link below:
 
-[CLICK HERE](https://rapidapi.com/ajith/api/love-calculator/)
+<p style="text-align:center">[CLICK HERE](https://rapidapi.com/ajith/api/love-calculator/)</
 
 ## Install and usage:
+Linux:
   - apt-get install python
   - apt-get install python-pip
   - apt-get install git
@@ -16,11 +17,10 @@ To do so you will need to get your API key from the link below:
   - python main.py
 
 
-If you dont, 
+After that, just replace the API key and host from the headers!
 
-After that, just replace the API key and host.
 headers = {
-            'x-rapidapi-key': "(Enter your API Key)",
-            'x-rapidapi-host': "Enter you API host"
+            'x-rapidapi-key': "***Enter your API Key***",
+            'x-rapidapi-host': "***Enter you API host***"
             }
             
