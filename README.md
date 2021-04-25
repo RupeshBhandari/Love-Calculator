@@ -4,7 +4,7 @@ Enter your name and the name of your partner/lover/crush to find Love compatibil
 
 To do so you will need to get your API key from the link below:
 
-<p style="text-align:center">[CLICK HERE](https://rapidapi.com/ajith/api/love-calculator/)</
+<p style="text-align:center">[CLICK HERE](https://rapidapi.com/ajith/api/love-calculator/)</p>
 
 ## Install and usage:
 Linux:
