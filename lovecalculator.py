@@ -11,8 +11,8 @@ partnername = input(colored("\n         Enter your partner/lover/crush name:> ",
 url = "https://love-calculator.p.rapidapi.com/getPercentage"
 querystring = {"fname":f"{ownname}","sname":f"{partnername}"}
 headers = {
-            'x-rapidapi-key': "fd544906eemsh58b064f09dbc569p1183abjsn8777ff646fd4",
-            'x-rapidapi-host': "love-calculator.p.rapidapi.com"
+            'x-rapidapi-key': "(Enter your API Key)",
+            'x-rapidapi-host': "(Enter your API Host)"
             }
 response = requests.request("GET", url, headers=headers, params=querystring)
 response = response.json()
@@ -33,4 +33,3 @@ for j in suggestion:
     print(colored(f"{j}", f"{color}"), end ='')
     sys.stdout.flush()
     time.sleep(0.1)
-
