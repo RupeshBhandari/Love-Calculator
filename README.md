@@ -3,6 +3,7 @@
 Enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship.
 
 To do so you will need to get your API key from the link below:
+
 [CLICK HERE](https://rapidapi.com/ajith/api/love-calculator/)
 
 ## Install and usage:
